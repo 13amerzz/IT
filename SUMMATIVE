@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SUM</title>
+</head>
+        <style>
+            body {
+                background-color: #e1dfcc;
+                font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            }
+        </style>
+<body>
+
+    <center><h1><strong> KICK STREET</strong></h1></center>
+        <center>
+
+            <q><strong>Every step deserves comfort and swag.</strong></q>
+        </center>
+        <br/> <br/>
+
+        <table border="13" cellpadding="9" cellspacing="4" align="center">
+        <tr>
+            <th>Product</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Order</th>
+        </tr>
+        
+        <tr>
+            <td><img src="SPIDER-VERSE.webp" alt="J1 SPIDA" width="150"></td>
+            <td><strong> Jordan 1 Retro High OG Spiderman Across the Spider-Verse 2023. <Br><Br> SIZE 12 US</strong></td>
+            <td>₱20,000</td>
+            <td><a href="https://www.instagram.com/13amerzz/"><button style="background-color: rgb(42, 42, 42);">Buy Now</button></a></td>
+        </tr>
+
+        <tr>
+            <td><img src="MANILA.jpg" alt="J4 MNL" width="150"></td>
+            <td><strong> Air Jordan 4 Retro MANILA 2020. <Br><Br> SIZE 11.5 US </strong></td>
+            <td>₱950,000</td>
+            <td><a href="https://www.instagram.com/13amerzz/"><button style="background-color: rgb(42, 42, 42);">Buy Now</button></a></td>
+        </tr>
+
+        <tr>
+            <td><img src="OFF.jpg" alt="J1 OFF" width="150"></td>
+            <td><strong>Air Jordan 1 Retro High Off-White "University Blue" 2019. <Br><Br> SIZE 12 US</strong></td>
+            <td>₱71,857</td>
+            <td><a href="https://www.instagram.com/13amerzz/"><button style="background-color: rgb(42, 42, 42);">Buy Now</button></a></td>
+        </tr> 
+        
+        <tr>
+            <td><img src="DIOR.jpg" alt="J1 DIOR" width="150"></td>
+            <td><strong>Air Jordan 1 Retro High Dior 2020. <Br><Br> SIZE 12 US</strong></td>
+            <td>₱750,000</td>
+            <td><a href="https://www.instagram.com/13amerzz/"><button style="background-color: rgb(42, 42, 42);">Buy Now</button></a></td>
+        </tr> 
+
+        <tr>
+            <td><img src="FRAG.jpg" alt="J1 FRAG" width="150"></td>
+            <td><strong> Travis Scott x Fragment x Air Jordan 1 Low OG 2021. <Br><Br> SIZE 11 US</strong></td>
+            <td>₱189,571</td>
+            <td><a href="https://www.instagram.com/13amerzz/"><button style="background-color: rgb(42, 42, 42);">Buy Now</button></a></td>
+        </tr> 
+
+
+    </table>
+
+        <h4>Message us for orders!</h4>
+        <a href="https://www.instagram.com/13amerzz/" target="_blank"><button style="background-color: rgb(42, 42, 42);">Instagram</button></a>
+        <a href="https://web.facebook.com/13amerzz" target="_blank"><button style="background-color: rgb(42, 42, 42);">Facebook</button></a>
+        <footer>
+            <p>&copy; 2023 KICK STREET. All rights reserved.</p>
+        </footer>
+
+</body>
+</html>
